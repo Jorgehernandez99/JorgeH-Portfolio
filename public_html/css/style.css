@@ -1,0 +1,74 @@
+body{
+	background-image: url("http://decalpitstop.com/mightyskins/mightyfiles/Lenovo%20IdeaPad%20Y500/Carbon%20Fiber.jpg");
+        color:green;
+}
+a:link {
+    color: #FF0000;
+}
+
+a:visited {
+    color: #00FF00;
+}
+
+a:hover {
+    color: #FF00FF;
+}
+
+a:active {
+    color: #0000FF;
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+
+p.one {
+    border-style: solid;
+    border-color: blue;
+    background-color: aliceblue;
+    border-style: outset;
+    width: 650px;
+
+}
+
+#panel,#flip
+{
+padding:5px;
+text-align:center;
+background-color:#e5eecc;
+border:solid 1px #c3c3c3;
+font-family: sans-serif;
+}
+#panel
+{
+padding:50px;
+display:none;
+}
+article p{
+    color: green;
+}
